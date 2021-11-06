@@ -1,1 +1,13 @@
 1. create a local folder with same name as of repo
+2. goto that folder and open terminal
+3. git clone <<https link from repo>>
+4. goto cloneed folder by doing, cd <<folder-name>>
+5. code . to goto vs code
+6. if it is first time do npm i and run it for one time (matlab do npm start)
+
+Next steps to add your local codes to github
+1. Compare all your cahnges in vscodes source control tab
+2. git add .
+3. git commit -m "Entire REST API"
+4. git push origin main (whatevr your branh name is)
+
