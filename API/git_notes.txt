@@ -9,5 +9,5 @@ Next steps to add your local codes to github
 1. Compare all your cahnges in vscodes source control tab
 2. git add .
 3. git commit -m "Entire REST API"
-4. git push origin main (whatevr your branh name is)
+4. git push origin main (whatevr your branh name is) 
 
