@@ -1,0 +1,1 @@
+1. create a local folder with same name as of repo
