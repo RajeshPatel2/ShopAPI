@@ -1,5 +1,7 @@
 const express = require("express");
 const router = express();
+const Product = require("../models/product");
+const mongoose = require("mongoose");
 const checkAuth = require("../middleware/check-auth");
 const multer = require("multer");
 const getProducts = require("../controller/products/get");
